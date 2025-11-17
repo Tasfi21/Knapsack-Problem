@@ -11,4 +11,4 @@ This repository implements the classic **0/1 Knapsack Problem** using dynamic pr
 ## File
 - `knapsack.cpp`
 
-## How to Run
+
